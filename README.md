@@ -13,6 +13,7 @@ RISC-V based lab video screenshot
 ![image](https://github.com/user-attachments/assets/cc716667-9cb9-4ae8-abf7-53629a11ad73)
 </details>
 
+<details>
 <summary> Task 2</summary>
 <br>
 
